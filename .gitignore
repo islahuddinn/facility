@@ -2,8 +2,6 @@ node_modules/
 *.log
 .DS_Store
 .tmp/
-.env
-.env.*
 !.env.example
 .claude/worktrees/
 .claude/launch.json
@@ -24,3 +22,4 @@ dist/
 *.tfstate
 *.tfstate.*
 crash.log
+config.bat
