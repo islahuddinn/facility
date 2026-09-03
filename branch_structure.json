@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/cli-dev-experience-241-240-229",
+    "fix/gateway-incomplete-stream-budget-248",
+    "fix/github-builder-plan-binding-233",
+    "fix/repo-lane-receipt-checks-244-243",
+    "main"
+  ],
+  "parent": {
+    "fix/cli-dev-experience-241-240-229": "main",
+    "fix/gateway-incomplete-stream-budget-248": "main",
+    "fix/github-builder-plan-binding-233": "main",
+    "fix/repo-lane-receipt-checks-244-243": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "fix/cli-dev-experience-241-240-229",
+    "fix/gateway-incomplete-stream-budget-248",
+    "fix/github-builder-plan-binding-233",
+    "fix/repo-lane-receipt-checks-244-243"
+  ]
+}
